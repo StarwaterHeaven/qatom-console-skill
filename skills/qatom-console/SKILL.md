@@ -107,7 +107,7 @@ Twin → Configuration → **Paywall**: Enabled · **Target URL** (the https ser
 For a buyer system that hits known twin paywalls with many concurrent purchases. A **master twin** hands each purchase to one of **n payer twins**; if a payer is busy with a transfer, the next one with capacity takes the request. The customer deals with **one endpoint** (the master's paywall) and **one budget**.
 
 Master twin → Configuration → **Payment Multiplex**:
-- **Payers:** add each payer twin by **Twin URL + that twin's API key** (the human pastes the key). Payers must belong to the same account or group; adding them here adds them.
+- **Payers:** add each payer twin by **Twin URL + that twin's API key** (the human copies the key from Dashboard → Twins → the twin, and pastes it). Payers must belong to the same account or group; adding them here adds them.
 - **Top-ups** ("run daily when a twin has fallen below the threshold"): Token · **Threshold** · **Top-up amount** · Enabled. Top-ups come out of the **master twin's** balance.
 - **Sizing:** threshold ≥ a payer's expected spend per day (top-ups are daily); payer count ≈ peak concurrent purchases; pre-fund the master with the total budget.
 
