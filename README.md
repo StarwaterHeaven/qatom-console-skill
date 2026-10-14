@@ -1,8 +1,8 @@
 # Qatom Console skill
 
-An agent skill for running a Qatom store or wallet after launch in the TODAQ Console (https://console.todaq.net) and by API: see your assets and transaction records, find out who paid, inspect and verify TODA files and sales, send funds, sweep item revenue to your main wallet or pay up to 200 people with distributions, put a twin paywall in front of an API, set up Payment Multiplex for high-volume buying, buy TDN and cash out to a bank.
+An agent skill for running a Qatom store or wallet after launch in the Qatom Console (https://console.todaq.net) and by API: see your assets and transaction records, find out who paid, inspect and verify TODA files and sales, send funds, sweep item revenue to your main wallet or pay up to 200 people with distributions, put a twin paywall in front of an API, set up Payment Multiplex for high-volume buying, buy TDN and cash out to a bank.
 
-> **Status: 0.2.** Written from a guided walk-through of a live customer account in the TODAQ Console (console.todaq.net) with the Qatom founder on 10 Oct 2026, plus the published v4 OpenAPI.
+> **Status: 0.3.** Written from a guided walk-through of a live customer account in the Qatom Console (console.todaq.net) with the Qatom founder on 10 Oct 2026, plus the published v4 OpenAPI.
 
 ## Install
 

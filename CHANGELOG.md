@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3 — 14 October 2026
+
+- Named the Qatom Console (white-label reskin this month); the address stays console.todaq.net.
+- Owner answers from 11 Oct: distributions run a few times a day, funds within a day, late payouts and wrong cash-outs go to support@todaq.net; Buy TDN starts with an email to support@todaq.net for banking details; Send takes a twin URL only (email planned); email payees need a twin today.
+- The Console signs in separately from Qatom, with its own passkeys; recommend one.
+- Money: say amounts by the owner's rule (whole numbers no decimals, cents two, tenths of a cent three) even though the screens show three decimals.
+- Permissions is under Account → Permissions; link to the walkthrough guide's Console screenshots.
+
 ## 0.2 — 10 October 2026
 
 Rewritten from a guided walk-through of the TODAQ Console on a live customer twin group.
